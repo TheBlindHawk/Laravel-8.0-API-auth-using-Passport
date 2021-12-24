@@ -16,6 +16,7 @@ composer update
 php artisan migrate
 php artisan passport:install
 php artisan passport:client --personal
+php artisan key:generate
 php artisan serve
 ```
 
