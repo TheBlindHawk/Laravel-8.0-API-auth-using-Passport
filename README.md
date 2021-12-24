@@ -12,6 +12,7 @@ DB_PASSWORD=your_password
 run the following on terminal:
 ```
 sudo service mysql start                    //if mysql is not running
+
 composer update
 php artisan migrate
 php artisan passport:install
