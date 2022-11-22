@@ -23,7 +23,7 @@ php artisan serve
 
 # Step by step
 
-A step by step documentation is available [here](http://47.74.9.86:3000/user/l-okuda/memo/2021/12/23/Laravel%20Passport%20Auth%20API).
+A step by step documentation is available [here](https://zenn.dev/theblindhawk/articles/5cdf5b0c1d5b19).
 
 Good luck!
 
